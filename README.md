@@ -33,11 +33,11 @@ Universities continue to be restructured as private businesses<sup id="a1">[1](#
 
 * their primary function is understood as supporting economic growth
 * they are expected to train the *knowledge workers* the economy demands by providing them with *marketable skills*
-* they are required to adopt a *student-as-customer* <span id="a2">business model</span><sup>[2](#f2)</sup>
+* they are required to adopt a *student-as-customer* business model<sup id="a2">[2](#f2)</sup>
 
-As the government withdraws state funding<span id="a3"></span><sup>[3](#f3)</sup> and universities increase tuition fees, for a generation the *university experience* starts by plunging into a financial debt that will dictate many of their future choices.
+As the government withdraws state funding<sup id="a3">[3](#f3)</sup> and universities increase tuition fees, for a generation the *university experience* starts by plunging into a financial debt that will dictate many of their future choices.
 
-It is no surprise that a *value-for-money* rhetoric has become a common way of framing higher education<span id="a4"></span><sup>[4](#f4)</sup>. To many prospective students (and their families) the leading question becomes
+It is no surprise that a *value-for-money* rhetoric has become a common way of framing higher education<sup id="a4">[4](#f4)</sup>. To many prospective students (and their families) the leading question becomes
 
 > Is a degree worth the debt?
 
