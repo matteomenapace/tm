@@ -29,7 +29,7 @@ Before I explain the ideas, methods and strategies that guide my teaching practi
 
 Higher Education in England can be summed up as a *<b>H</b>ighly <b>E</b>xclusionary* system.
 
-Universities continue to be <span id="a1">restructured as private businesses</span><sup>[1](#f1)</sup>:
+Universities continue to be restructured as private businesses<sup id="a1">[1](#f1)</sup>:
 
 * their primary function is understood as supporting economic growth
 * they are expected to train the *knowledge workers* the economy demands by providing them with *marketable skills*
