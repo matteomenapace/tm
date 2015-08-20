@@ -5,7 +5,7 @@
 	- [x] push for marketable skills (STEM as *national priority*).. what's the meaning of vocation?
 	- [x] **student-as-customer** model: by paying fees, students should be empowered as consumers, giving rise to better quality teaching and courses on offer reflecting <del>student</del>consumer demand
 	- [ ] graduate dream of success and social mobility, which has been persistently sold to middle class youth (mass higher education): in reality, a degree is not guarantee of employment (let alone success, however you measure it) and cost of education grows faster than salaries, inflation etc
-	- [ ] consumerist culture
+	- [ ] consumerist culture: a larger cultural shift that universities have little to do with, and is similarly experienced in healthcare and other fields that historically were more insulated from market language and orientation
 
 * ME (do I have a fancy acronym for it?)	
 	* Independence, as in *independent learning*: students should be encouraged to take ownership of their learning paths and choose their own learning goals
@@ -57,4 +57,28 @@ In this scenario, where creativity is meant to be a subsidiary of *business inno
 
 <b id="f3">3</b> ... especially from degree programmes in arts, humanities and social sciences whiles pushing STEM subjects (Science, Technology, Engineering and Maths) which are considered [national priority](https://www.gov.uk/government/news/maths-and-science-must-be-the-top-priority-in-our-schools-says-prime-minister). [↩](#a3)
 
-<b id="f4">4</b> TODO as a customer... [↩](#a4)
+<b id="f4">4</b> What happens if we truly frame students as paying customers? 
+
+Let's imagine. (I'm making this thought experiment because it starts to become hard to envision a different model.)
+
+* As a customer, a university student purchases a *subscription* to a 2-4 years (typically 3) *educational product* (the "course").
+	* The subscription has to be renewed annually. 
+	* The product includes a membership to the university, access to its facilities and resources, group training sessions, one-to-one consultancy and assessment (verbal and written) of the student's output.
+	* For the duration of the course, a student is deemed to be *engaged* with her course: attending as required, responding in a timely manner to the needs of the programme and progressing adequately. 
+* At the end of the course, the customer will be accredited by the university a certificate of attendance and achievement (the "degree certificate"). 
+	* A degree certificate is no guarantee of future employment, however it is differently valued by customers, their families and potential employers.
+	* Degree certificates are only accredited upon completion of the 3 years contract. A customer cannot claim a half-completed degree, for instance. 
+	* Students in debt to the university will not be permitted to "graduate" (obtain the degree certificate).
+	* The closer customers are to the end of the course and subsequent degree accreditation, the less likely they will be to stop their yearly subscription (regardless of overall satisfaction).
+* As a customer, a student needs money. 
+	* Given that (most of) her time is contractually devoted to the university subscription, her spending must be *on credit*. This is usually provided by bank loans specifically designed for students: easy credit (or, from the other perspective, debt accumulation) for the duration of the university subscription, which must be repaid after the contract ends, regardless of the acquisition of a degree certificate.
+	* As a customer, a student uses private loans to advance and sustain the costs of their years at university, effectively turning their subscription into a financial investment. 
+* As a customer, a prospective student will consider the risks of subscribing to degrees that may not *pay off in the future*. By this she means that certain unpractical degrees may not allow them to land jobs that enable their future selves to repay the loans.
+* As a customer, a student (and her family) may consider her university subscription as a status symbol: *I go to university because I can afford it*.
+* As a paying customer, a student could demand her money back in case she's not satisfied with the education she purchased. 
+* As a customer, a student would logically want to select the courses and teachers she's going to be taught, rather than be given a "package". Perhaps the best teachers should also be more expensive.
+* As a customer, a struggling student is a business problem
+* As a business that depends on paying customers, a university is primarily concerned with *recruiting* them. The *point of sale* is crucial. 
+* As a business, a university must grow (or at least maintain) its revenue. The largest income for universities is currently tuition fees paid by students. 
+
+Can you spot the differences between this and the current HE model? [↩](#a4)
