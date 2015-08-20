@@ -174,6 +174,8 @@ I don't want to use the word "help", instead: push, motivate, encourage, empower
 
 
 
+Teaching often feels like designing a computer program: you have to create solid systems and then set up situations for other people to engage with those systems in meaningful and creative ways. It's like writing software for those highly interactive and unpredictable hardware known as students. Much more fun that testing your stuff on computers.
+
 
 * My teaching approach: open-source, practice-based, challenge-based, lots of tutorials, pair programming, metacognition, constructivist learning.
 
