@@ -57,3 +57,9 @@
 	> I always tell my students that "you may be a student-consumer, but in my class you bought an intellectual gym membership. You hired me as your trainer this term. It will be fun and stimulating, but it will be difficult. By taking my class, you implicitly agreed that you need to lose 10 pounds of intellectual flab, gain 5 pounds of connect the dots imagination muscle, and develop greater core strength at logical argumentation. If that's not for you, there are a thousand other classes you can take. Do the work with me during our three hours together per week, and during your personal at-home workouts, during office hours, and you'll be taking full advantage of the gym membership. Gold star. Boo yah! Show up at class and say "hi" to everyone at the gym, glance at the equipment (the assigned texts), and b.s. your way through the exercises (quizzes and papers) and that colossal waste of money and resources is on you." None of this solves the much bigger systemic issues, of course. Just a finger in the dam and an attempt to make the classroom an important face-to-face experience with these young men and women. [comment] 
 	
 	There is a sense of unease in using this consumerist metaphor. Is the student a customer? Or is society the customer? And student the product? What about *education*? 
+	
+- [ ] [The Great University Gamble: Money, Markets and the Future of Higher Education](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/09/book-review-the-great-university-gamble-money-markets-and-the-future-of-higher-education/)
+- [ ] [Marketizing higher education: neoliberal strategies and counter-strategies](http://oro.open.ac.uk/5069/2/LL_Marketising_HE.pdf)
+- [ ] [Learning, freedom and the Web (Mozfest 2010)](http://learningfreedomandtheweb.org/Mozilla_LFW.pdf)
+
+	
