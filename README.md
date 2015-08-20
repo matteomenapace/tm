@@ -4,28 +4,36 @@
 	- [x] withdrawal of state funding from undergraduate degree programmes in arts, humanities and social sciences = privatisation of English higher education
 	- [x] push for marketable skills (STEM as *national priority*).. what's the meaning of vocation?
 	- [x] **student-as-customer** model: by paying fees, students should be empowered as consumers, giving rise to better quality teaching and courses on offer reflecting <del>student</del>consumer demand
-	- [ ] graduate dream of success and social mobility, which has been persistently sold to middle class youth (mass higher education): in reality, a degree is not guarantee of employment (let alone success, however you measure it) and cost of education grows faster than salaries, inflation etc
+	- [x] graduate dream of success and social mobility, which has been persistently sold to middle class youth (mass higher education): in reality, a degree is not guarantee of employment (let alone success, however you measure it) and cost of education grows faster than salaries, inflation etc
 	- [ ] consumerist culture: a larger cultural shift that universities have little to do with, and is similarly experienced in healthcare and other fields that historically were more insulated from market language and orientation
 
-* ME (do I have a fancy acronym for it?)	
-	* Independence, as in *independent learning*: students should be encouraged to take ownership of their learning paths and choose their own learning goals
-	* Critical thinking: challenge industry rather than simply chasing it (or serving its employer's demands)
-	* Face2face-time (aka *community of practice*): being physically in the same space, working together with co-learners and educators, and one-on-one mentoring
-	* *Dream dangerously*: imagining radically different futures, rather than reskins of existing scams
-	* Creativity is something everyone agrees on, but **create what**? What sort of creativity are we encouraging? What *agenda*(s) are we pursuing?
-	* [ ] social responsibility..
-	* Project-based, interdisciplinary curriculum
-	* Open-source *courseware*: freedom to access our course material and re-use it
+* ME (do I have a fancy acronym for it? Meaningful Education..)	
+	* [x] Students should be encouraged to take ownership of their learning paths and choose their own learning goals
+	* [x] *Community of practice*: being physically in the same space, working together with co-learners and educators, and one-on-one mentoring	
+	* [x] **Peer-learning**: the best way of learning is teaching what you know to someone else
+	* [ ] Creativity is something everyone agrees on, but **create what**? What sort of creativity are we encouraging? What *agenda*(s) are we pursuing?
+		* [ ] Critical thinking: challenge industry rather than simply chasing it (or serving its employer's demands)
+		* [ ] *Dream dangerously*: imagining radically different futures, rather than reskins of existing scams
+	
+	* [ ] open source teaching and learning
+	* [ ] Project-based, interdisciplinary curriculum
+	
+* WE (aka the PLAN): how am I going to put the above into practice? What am I going to experiment with?
+	* [ ] OPEN teaching: from lecturer to *coach*
+	* [ ] Computational Thinking is about using code creatively to solve real-world problems, to break down behaviours in specific and precise ways that can be communicated to other people, and eventually to computers.
+	* [ ] Open-source *courseware*: freedom to access our course material and re-use it
 		* but how does this sit with the commercial nature of the institution in which this material was originally produced? with the IP that it contractually claims on it? 
 		* can a Creative Commons licence (attribute, non-commercial) be a good compromise?
-	* OPEN teaching: from lecturer to *coach*
-	* **Peer-learning** (teach as soon as you learn): the best way of learning is teaching what you know to someone else
-
-* PLAN: how am I going to put the above into practice? What am I going to experiment with?
-
+	* [ ] Face2FaceTime: tighter feedback loops 
+	* [ ] Walking lectures (ask the street..)
+	* [ ] Engaging with the local community: collaboration with primary schools, encouraging students to get involved in volunteering (eg CodeClub) and student societies
+	* [ ] Self-initiated projects: "what do you want to make? and why?"	what is your agenda? what change do you want to see? why do you care?
+	* [ ] Animated gifs
+	* [ ] encourage students to print out their code and visualise their understanding.
+	
 # HE
 
-Before I explain the ideas, methods and strategies that guide my teaching practice, let me describe the context in which I work. 
+<sup>Before I explain the ideas, methods and strategies that guide my teaching practice, let me describe the context in which I work.</sup> 
 
 Higher Education in England can be summed up as a *<b>H</b>ighly <b>E</b>xclusionary* system.
 
@@ -41,11 +49,45 @@ It is no surprise that a *value-for-money* rhetoric has become a common way of f
 
 > Is a degree worth the debt?
 
-In this scenario, where creativity is meant to be a subsidiary of *business innovation* and students are encouraged to think and act as (passive) consumers of a pricy product, what's a teacher to do? 
+In this scenario, where creativity is meant to be a subsidiary of *business innovation* and students are pushed to think and act as passive consumers of an exclusive product, what's a teacher to do? 
+
+
+# ME
+
+Education is not a commodity you can buy. But you can own your learning path. I encourage students to develop and actively pursue their learning goals (rather than expect the university to spoon-feed them with knowledge and skills) and share their journey with their peers (and the commons).
+
+If we are to borrow the student-as-customer model, then I want my courses to be like a *creative gym membership*: 
+
+> I am your **coach**. 
+
+> Together we will discuss which brain muscles you want to develop, which habits you want to lose, what workouts you can do. I'll challenge you with creative briefs to push you out of your intellectual comfort zone. 
+
+> To take full advantage of your membership, you'll be working with your peers and me, teaching each other what you've learned. 
+
+> Show up and say "hi" to everyone at the gym, glance at the equipment and b.s. your way through the workouts and that colossal waste of money and resources is on you.
+
+In real gyms members can hire a personal coach (or an app) and train independently. Or just exercise on the treadmill earplugged. How do we prevent students from mistaking "independence" for "selfishness"?
+
+Working together in the same (real) place, a **community of practice** engaged in face-2-face conversations and collaborations is the actual privilege of taking a degree course, and its *competitive advantage* over alternative (and popular/hyped) solutions like MOOCs<sup id="a7">[7](#f7)</sup>. 
+
+No matter how much tech we pump into education, the *killer-app* is still (and will be) human relationships<sup id="a5">[5](#f5)</sup>. I see my role as primarily to foster **collaborative relationships** between students, and between students and practitioners. 
+
+I believe the best way of learning is teaching what you know to someone else, as soon as you learned it. **Peer learning** has proven to be effective, not just in learning skills, facts and figures, but more importantly in putting students at the heart of a system<sup id="a6">[6](#f6)</sup> where they are active makers of their learning experiences. It is not a new idea (and not a single method), yet it still encounters resistance. Mainly because it's hard to let go of "lecture control" and allow students to take charge. Pushing past the initial inertia is key. And perhaps overcoming the "I know better" attitude to acknowledge that we can all learn from each other.
+
+`How can I ensure peer learning is effective?`
+
+**Creativity** is a concept everyone agrees on. Who wants to be uncreative? I consider creativity as an endeavour that is neither frivolous nor politically neutral. So the questions is
+
+> What are you going to create and why? What is your agenda? 
+
+I encourage students to take responsibility for their creations, to challenge industry practices rather than simply chasing them. In this light, technical skills are as important as **deconstruction** skills: scratching under the surface of digital artefacts to understand their ideologies,  questioning the dominant frames, designing critically, re-appropriating and re-mixing cultural references, dreaming dangerously<sup id="a8">[8](#f8)</sup>.  
 
 
 
 
+
+...ok, nice words but how do we do that?  
+   
 
 
 
@@ -82,3 +124,14 @@ Let's imagine. (I'm making this thought experiment because it starts to become h
 * As a business, a university must grow (or at least maintain) its revenue. The largest income for universities is currently tuition fees paid by students. 
 
 Can you spot the differences between this and the current HE model? [↩](#a4)
+
+
+<b id="f5">5</b> I heard this from [Simon Breakspear](https://twitter.com/simonbreakspear) and in its strategic vagueness it stroke a chord with me.
+
+<b id="f6">6</b> I'm borrowing the catchphrase from the infamous [Browne Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/422565/bis-10-1208-securing-sustainable-higher-education-browne-report.pdf), for which I presume students could be installed at the heart of the HE system by giving them customer rights (empowerment by debt)
+`TODO show evidence of effective peer learning` 
+
+<b id="f7">7</b> Massive Open Online Courses, which in HE are met with reactions spanning from panicked indifference to... 
+`TODO bring some examples and reactions` 
+
+<b id="f8">8</b> as popularised by [Slavoj Žižek](http://www.versobooks.com/books/1161-the-year-of-dreaming-dangerously)
