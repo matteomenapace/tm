@@ -94,3 +94,15 @@
 - [ ] [The Great University Gamble: Money, Markets and the Future of Higher Education](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/09/book-review-the-great-university-gamble-money-markets-and-the-future-of-higher-education/)
 - [ ] [Marketizing higher education: neoliberal strategies and counter-strategies](http://oro.open.ac.uk/5069/2/LL_Marketising_HE.pdf)
 - [ ] [Learning, freedom and the Web (Mozfest 2010)](http://learningfreedomandtheweb.org/Mozilla_LFW.pdf)
+
+
+- [x] [Teaching philosophy](http://molleindustria.org/portfolio/Pedercini%20-%20teaching%20philosophy.pdf) by Paolo Pedercini (aka @molleindustria)
+
+	> Teachers ought to reaffirm the value of face to face interaction while taking advantage of, and contributing to, the proliferation of educational resources online. 
+	
+	> Way too often our undergraduate work reflects an homogeneous upper-middle class background mediated by commercial pop culture: how can we expect them to go beyond it if their entire existences are spent between a dorm and a studio?
+	
+	> Our main concern should be to create compulsive out-of-the-box thinkers, professional disruptors, carpenters of Utopia.
+	
+	> We are interacting with a generation of over-stimulated,
+attention-deficient multitaskers: our primary challenge as teachers is to fight boredom in the classroom.
