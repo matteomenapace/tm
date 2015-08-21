@@ -21,8 +21,6 @@ In this scenario, where creativity is meant to be a subsidiary of *business inno
 
 # ME
 
-Education is not a commodity you can buy. But you can own your learning path. I encourage students to develop and actively pursue their learning goals (rather than expect the university to spoon-feed them with knowledge and skills) and share their journey with their peers (and the commons).
-
 If we are to borrow the student-as-customer model, then I want my courses to be like a *creative gym membership*: 
 
 > I am your **coach**. 
@@ -39,9 +37,9 @@ Working together in the same (real) place, a **community of practice** engaged i
 
 No matter how much tech we pump into education, the *killer-app* is still (and will be) human relationships<sup id="a5">[5](#f5)</sup>. I see my role as primarily to foster **collaborative relationships** between students, and between students and practitioners. 
 
-I believe the best way of learning is teaching what you know to someone else, as soon as you learned it. **Peer learning** has proven to be effective, not just in learning skills, facts and figures, but more importantly in putting students at the heart of a system<sup id="a6">[6](#f6)</sup> where they are active makers of their learning experiences. It is not a new idea (and not a single method), yet it still encounters resistance. Mainly because it's hard to let go of "lecture control" and allow students to take charge. Pushing past the initial inertia is key. And perhaps overcoming the "I know better" attitude to acknowledge that we can all learn from each other.
+I learned that the best way to learn something is teaching it to someone else, as soon as you learned it. **Peer learning** has proven to be effective, not just in learning skills, facts and figures, but more importantly in putting students at the heart of a system<sup id="a6">[6](#f6)</sup> where they are active makers of their learning experiences. It is not a new idea (and not a single method), yet it still encounters resistance. Mainly because it's hard to let go of "lecture control" and allow students to take charge. Pushing past the initial inertia is key. And perhaps overcoming the "I know better" attitude to acknowledge that we can all learn from each other.
 
-`How can I ensure peer learning is effective?`
+`TODO bridge between peer learning and creativity?`
 
 **Creativity** is a concept everyone agrees on. Who wants to be uncreative? I consider creativity as an endeavour that is neither frivolous nor politically neutral. So the questions is
 
@@ -51,10 +49,107 @@ I encourage students to take responsibility for their creations, to challenge in
 
 
 
+...ok, nice words but how do we do that? 
+
+# WE 
+
+### Co-learners
+
+We understand and practice teaching as a collaborative activity.
+
+We acknowledge the hierarchical lecturer-student relationship yet operate as **co-learners**.
+
+In practice:
+
+* we propose work plans (not impose), discuss them with students and amend them if necessary
+* we ask students to devise their own learning goals, which we review as often as possible in person. This has proven challenging for young people that have grown up in a system where they're spoon-fed knowledge they haven't asked for, where they've rarely (or never) been asked "So, what do you want to learn?"
+* we offer informal mentoring on student-initiated projects 
+* we strive to make our assessment process as transparent as possible: publishing assessment criteria, discussing them with students and encouraging self-assessment
+* we ask students to routinely share their new skills in class, leading mini-tutorials. It may sound obvious once you think that the main business of a university is learning that collaboration means *Reciprocal Teaching*
+* we promote team work via group projects where students take turns in different roles and responsibilities
+
+```
+How can I ensure peer learning is effective?
+Importance of trust and commitment
+```
+
+<!--Education is not a commodity you can buy. But you can own your learning path. I encourage students to develop and actively pursue their learning goals (rather than expect the university to spoon-feed them with knowledge and skills) and share their journey with their peers (and the commons).-->
 
 
-...ok, nice words but how do we do that?  
-   
+### Open teaching
+
+The general discourse on Open Educational Resources centres around the idea of *free* (often intended as as in "free beer"). Of course kids can benefit from material that they can access freely. But that is only half of the point. The other half is that kids can *contribute* to the shared knowledge. Moving away from *knowledge transfer* to pursue *knowledge production*.
+
+This requires a change in the way we teach.
+
+* don't pretend you know everything, but be open about what you don't know. A teacher is a guide, able to point learners in different directions and refocus their attention. 
+	<!--We can't learn on their behalf.-->
+* nurture trust: if students don't trust us they won't follow us
+* Encourage students to share and contribute rather than keeping their ideas secret
+* Credit where it's due. Nothing is original, everything is a remix.
+* minimise "disposable" assignments, those who have no relevance to a student's work and are painful to grade. *Relevance* is something to be negotiated, not imposed
+* provide a detailed description of how the assignment will be graded
+* feedback is more important than grades (which are sometimes inflated)
+ 
+    
+* tight verbal feedback loop, aka *Face2FaceTime* (thanks Apple)
+* open-source curriculum
+
+
+
+
+Student often seek our approval (and/or the approval of their peers): we must strive not to "tell them what to do" but educate them to be open to suggestions yet firm in their decisions.
+
+### Experiment
+
+Embrace mistakes (instead of punishing them): they are an opportunity to learn and hack something new into existence.
+
+> There's no win and no fail: there's only *make*<sup id="a10">[10](#f10)</sup>.
+
+
+
+
+### Web pedagogy
+
+Compared to most other university subjects, *teaching the Web* can feel like chasing an elusive and ever-changing animal in a vastly unexplored field. 
+
+This means we have more room to experiment, less (or no) traditions to confront, more opportunities to discover something new. At the same time, this discovery process may be challenging and even painful at times.
+
+As with many media that were "new", we may be tempted to apply old metaphors to the Web. As well as adopting new *social protocols* without questioning them (`might makes right?`). 
+
+As old business models are merged with new technologies (see Amazon<sup id="a11">[11](#f11)</sup>) and online corporations colonise (privatise, fence off) even more spaces on the Web, we resist the status quo by encouraging students to think critically about their daily habits mediated by technologies. That's a starting point, however we can push students to "dream dangerously" and envision radically different uses for technology.
+
+
+`Open by design...`
+
+
+
+In practice:
+
+* **Web literacy**: it's not just about code. Learning how to (re)search and evaluate information, how to contribute to open knowledge, how to communicate..
+
+* Computing is not just a science, it's a way of solving problems. Computational thinking is about people first.
+
+* We encourage students to print out their code and visualise their understanding. Digital tech is not the solution to everything. Even if we're designing or developing digital artefacts, pen and paper are still (and will be) effective "thinking tools". 
+
+* question *artificial scarcity* et al
+
+### The commons
+
+What we do is not just for an elite of students who can afford the extortionate cost of a university degree. Outreach projects are often perceived as a sort of *moral debt repayment* (or maybe it's my Catholic upbringing). It's actually in our interest to engage with the communities that orbit around our university. And not just the obvious ones (creative industries etc), but rather those who are geographically close but excluded from our daily *filter bubbles*<sup id="a9">[9](#f9)</sup>.
+
+In practice:
+
+* working with local schools, where our students take on a facilitator role and share their knowledge with pupils from culturally diverse backgrounds
+* pushing students beyond their comfort zones, to approach and interview strangers for their design research 
+* creating and publishing *how-to* tutorials 
+* contributing to open-source projects
+* encouraging students to volunteer (see CodeClub) and attend professional or vocational meetups
+* publishing our *courseware* with copy-left licences that allow the to be repurposed (in spite of restrictive IP enforcements)
+
+Sometimes the encouragement may take the form of a gentle push. It may feel coercive if students don't trust us, which is why it's crucial to develop trusting relationships
+
+
 
 
 
@@ -93,7 +188,8 @@ Let's imagine. (I'm making this thought experiment because it starts to become h
 Can you spot the differences between this and the current HE model? [↩](#a4)
 
 
-<b id="f5">5</b> I heard this from [Simon Breakspear](https://twitter.com/simonbreakspear) and in its strategic vagueness it stroke a chord with me.
+<b id="f5">5</b> I heard this from [Simon Breakspear](https://twitter.com/simonbreakspear) and in its strategic vagueness it stroke a chord with me. It's a similar statement (a remix perhaps?) to David Preston's 
+> Devices will never replace or even compete with the learning benefits of human interaction 
 
 <b id="f6">6</b> I'm borrowing the catchphrase from the infamous [Browne Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/422565/bis-10-1208-securing-sustainable-higher-education-browne-report.pdf), for which I presume students could be installed at the heart of the HE system by giving them customer rights (empowerment by debt)
 `TODO show evidence of effective peer learning` 
@@ -101,4 +197,11 @@ Can you spot the differences between this and the current HE model? [↩](#a4)
 <b id="f7">7</b> Massive Open Online Courses, which in HE are met with reactions spanning from panicked indifference to... 
 `TODO bring some examples and reactions` 
 
-<b id="f8">8</b> as popularised by [Slavoj Žižek](http://www.versobooks.com/books/1161-the-year-of-dreaming-dangerously)
+<b id="f8">8</b> as popularised by [Slavoj Žižek](http://www.versobooks.com/books/1161-the-year-of-dreaming-dangerously). I understand ideology in the way that Žižek describes it as "the frame within which our world is produced, but we are not aware of it."
+
+<b id="f9">9</b> The term was coined by internet activist Eli Pariser in his book by the same name; according to Pariser, users get less exposure to conflicting viewpoints and are isolated intellectually in their own informational bubble. Learn more at [Wikipedia](https://en.wikipedia.org/wiki/Filter_bubble)
+
+<b id="f10">10</b> From [10 Rules for Students, Teachers, and Life](http://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/) by John Cage and Sister Corita Kent
+
+<b id="f11">11</b> As [reported by the NYT](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html) Amazon pioneers *big data* and *machine learning* to ruthlessly extract as much intellectual value as possible from their *human resources*
+

@@ -18,7 +18,6 @@
 		* [ ] *Dream dangerously*: imagining radically different futures, rather than reskins of existing scams
 	
 	* [ ] open source teaching and learning
-	* [ ] Project-based, interdisciplinary curriculum
 	
 * WE (aka the PLAN): how am I going to put the above into practice? What am I going to experiment with?
 	* [ ] OPEN teaching: from lecturer to *coach*
@@ -106,3 +105,9 @@
 	
 	> We are interacting with a generation of over-stimulated,
 attention-deficient multitaskers: our primary challenge as teachers is to fight boredom in the classroom.
+
+- [ ] [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html)
+
+	> Whatever code we hack, be it programming language, poetic language, math or music, curves or colourings, we create the possibility of new things entering the world. Not always great things, or even good things, but new things. 
+	
+	> In art, in science, in philosophy and culture, in any production of knowledge where data can be gathered, where information can be extracted from it, and where in that information new possibilities for the world are produced, there are hackers hacking the new out of the old. 
