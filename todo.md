@@ -1,5 +1,38 @@
 # TODO
 
+* HE = Highly Exclusionary (education) 
+	- [x] universities restructured as businesses (all justified by the financial crisis)
+	- [x] creativity at the mercy of business: training *knowledge workers* and devaluing of critical thinking
+	- [x] withdrawal of state funding from undergraduate degree programmes in arts, humanities and social sciences = privatisation of English higher education
+	- [x] push for marketable skills (STEM as *national priority*).. what's the meaning of vocation?
+	- [x] **student-as-customer** model: by paying fees, students should be empowered as consumers, giving rise to better quality teaching and courses on offer reflecting <del>student</del>consumer demand
+	- [x] graduate dream of success and social mobility, which has been persistently sold to middle class youth (mass higher education): in reality, a degree is not guarantee of employment (let alone success, however you measure it) and cost of education grows faster than salaries, inflation etc
+	- [ ] consumerist culture: a larger cultural shift that universities have little to do with, and is similarly experienced in healthcare and other fields that historically were more insulated from market language and orientation
+
+* ME (do I have a fancy acronym for it? Meaningful Education..)	
+	* [x] Students should be encouraged to take ownership of their learning paths and choose their own learning goals
+	* [x] *Community of practice*: being physically in the same space, working together with co-learners and educators, and one-on-one mentoring	
+	* [x] **Peer-learning**: the best way of learning is teaching what you know to someone else
+	* [ ] Creativity is something everyone agrees on, but **create what**? What sort of creativity are we encouraging? What *agenda*(s) are we pursuing?
+		* [ ] Critical thinking: challenge industry rather than simply chasing it (or serving its employer's demands)
+		* [ ] *Dream dangerously*: imagining radically different futures, rather than reskins of existing scams
+	
+	* [ ] open source teaching and learning
+	* [ ] Project-based, interdisciplinary curriculum
+	
+* WE (aka the PLAN): how am I going to put the above into practice? What am I going to experiment with?
+	* [ ] OPEN teaching: from lecturer to *coach*
+	* [ ] Computational Thinking is about using code creatively to solve real-world problems, to break down behaviours in specific and precise ways that can be communicated to other people, and eventually to computers.
+	* [ ] Open-source *courseware*: freedom to access our course material and re-use it
+		* but how does this sit with the commercial nature of the institution in which this material was originally produced? with the IP that it contractually claims on it? 
+		* can a Creative Commons licence (attribute, non-commercial) be a good compromise?
+	* [ ] Face2FaceTime: tighter feedback loops 
+	* [ ] Walking lectures (ask the street..)
+	* [ ] Engaging with the local community: collaboration with primary schools, encouraging students to get involved in volunteering (eg CodeClub) and student societies
+	* [ ] Self-initiated projects: "what do you want to make? and why?"	what is your agenda? what change do you want to see? why do you care?
+	* [ ] Animated gifs
+	* [ ] encourage students to print out their code and visualise their understanding.
+
 ### Check out
 
 - [ ] [Hacking College](https://medium.com/on-coding/hacking-college-fffe474452e1)
@@ -61,5 +94,3 @@
 - [ ] [The Great University Gamble: Money, Markets and the Future of Higher Education](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/09/book-review-the-great-university-gamble-money-markets-and-the-future-of-higher-education/)
 - [ ] [Marketizing higher education: neoliberal strategies and counter-strategies](http://oro.open.ac.uk/5069/2/LL_Marketising_HE.pdf)
 - [ ] [Learning, freedom and the Web (Mozfest 2010)](http://learningfreedomandtheweb.org/Mozilla_LFW.pdf)
-
-	
