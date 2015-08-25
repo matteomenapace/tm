@@ -1,55 +1,62 @@
 <!--<sup>Before I explain the ideas, methods and strategies that guide my teaching practice, let me describe the context in which I work.</sup> -->
-	
+
+A manifesto is a statement of principles and intentions, often written before putting those into practice. In this manifesto, I intend to set out a vision for the type of teaching I want to practice. It will be a constantly evolving document, as experiments will question the vision and draw its edges.
+
+
+
 # HE
 
 Higher Education in England can be summed up as a *<b>H</b>ighly <b>E</b>xclusionary* system.
 
-Universities continue to be restructured as private businesses<sup id="a1">[1](#f1)</sup>:
+Universities continue to be restructured as private businesses:<sup id="a1">[1](#f1)</sup>
 
 * their primary function is understood as supporting economic growth
 * they are expected to train the *knowledge workers* the economy demands by providing them with *marketable skills*
 * they are required to adopt a *student-as-customer* business model<sup id="a2">[2](#f2)</sup>
 
-As the government withdraws state funding<sup id="a3">[3](#f3)</sup> and universities increase tuition fees, for a generation the *university experience* starts by plunging into a financial debt that will dictate many of their future choices.
+As the government withdraws state funding<sup id="a3">[3](#f3)</sup> and universities increase tuition fees, for the current generation the *university experience* starts by plunging into a financial debt that will dictate many of their future choices.
 
-It is no surprise that a *value-for-money* rhetoric has become a common way of framing higher education<sup id="a4">[4](#f4)</sup>. To many prospective students (and their families) the leading question becomes
+It is no surprise that a *value-for-money* rhetoric has become a common way of framing higher education.<sup id="a4">[4](#f4)</sup> To many prospective students (and their families) the leading question becomes
 
 > Is a degree worth the debt?
 
-In this scenario, where creativity is meant to be a subsidiary of *business innovation* and students are pushed to think and act as passive consumers of an exclusive product, what's a teacher to do? 
+In this scenario, where creativity is meant to be a subsidiary of *business innovation* and students are pushed to think and act as passive consumers of an exclusive product, what's an educator to do? 
+
 
 
 # ME
 
-If we are to borrow the student-as-customer model, then I want my courses to be like a *creative gym membership*: 
+If we are to borrow the student-as-customer model, then my courses would be akin to a *creative gym membership*: 
 
-> I am your **coach**. 
+> I am your *coach*. 
 
-> Together we will discuss which brain muscles you want to develop, which habits you want to lose, what workouts you can do. I'll challenge you with creative briefs to push you out of your intellectual comfort zone. 
+> Together we will decide which *brain muscles* you want to develop, which *mental habits* you want to train, what *technical workouts* you can do. I will challenge you with creative briefs to push you out of your intellectual comfort zone. 
 
-> To take full advantage of your membership, you'll be working with your peers and me, teaching each other what you've learned. 
+> To take full advantage of your membership, you will regularly work with your peers, teaching each other what you are learning. 
 
-> Show up and say "hi" to everyone at the gym, glance at the equipment and b.s. your way through the workouts and that colossal waste of money and resources is on you.
+> Simply showing up, grazing around and bullshiting your way through the workouts is a massive waste of money.
 
-In real gyms members can hire a personal coach (or an app) and train independently. Or just exercise on the treadmill earplugged. How do we prevent students from mistaking "independence" for "selfishness"?
+Yet this bootcamp-style approach is not enough. I don't want students to conceive university as a (solitary) treadmill run. I want students to be *producers*,<sup id="a5">[5](#f5)</sup> or more specifically: *hackers* of their own learning and *contributors* to the production of shared knowledge.
 
-Working together in the same (real) place, a **community of practice** engaged in face-2-face conversations and collaborations is the actual privilege of taking a degree course, and its *competitive advantage* over alternative (and popular/hyped) solutions like MOOCs<sup id="a7">[7](#f7)</sup>. 
+I am using the term **hacker** because it describes a mindset rather than a job role. A hacker is intellectually curious, a critical thinker who is not afraid of subverting systems to her own needs, responding to the principles of the communities she belongs to. It also denotes an experimental approach that practices creativity as *hacking the new out of the old*.<sup id="a6">[6](#f6)</sup>
 
-No matter how much tech we pump into education, the *killer-app* is still (and will be) human relationships<sup id="a5">[5](#f5)</sup>. I see my role as primarily to foster **collaborative relationships** between students, and between students and practitioners. 
+If students become hackers, then teaching and learning are **subversive activities**<sup id="a7">[7](#f7)</sup> and education is the process of questioning the dominant culture and shaping it into something fit for purpose, rather than the *re-production* of what already exists.
 
-I learned that the best way to learn something is teaching it to someone else, as soon as you learned it. **Peer learning** has proven to be effective, not just in learning skills, facts and figures, but more importantly in putting students at the heart of a system<sup id="a6">[6](#f6)</sup> where they are active makers of their learning experiences. It is not a new idea (and not a single method), yet it still encounters resistance. Mainly because it's hard to let go of "lecture control" and allow students to take charge. Pushing past the initial inertia is key. And perhaps overcoming the "I know better" attitude to acknowledge that we can all learn from each other.
+As a student, your learning is more effective if you teach to someone else, because teaching makes you reflect on what you know and how to communicate it. As a teacher, you are constantly learning. If we, teachers and students, are in the business of learning together, then we should practice it as **reciprocal teaching**,<sup id="a8">[8](#f8)</sup> challenging each other with questions we don't know the answers to. 
+ 
+No matter how much tech we pump into education, the *killer-app* is still (and will be) human relationships.<sup id="a9">[9](#f9)</sup> My primary role is to facilitate **collaborative relationships** between students, and between students and practitioners. Working together in the same (real) place as part of a **community of practice**, is the actual privilege of taking a university course, and its *competitive advantage* over alternative (and hyped) solutions like MOOCs.<sup id="a10">[10](#f10)</sup>
 
-`TODO bridge between peer learning and creativity?`
-
-**Creativity** is a concept everyone agrees on. Who wants to be uncreative? I consider creativity as an endeavour that is neither frivolous nor politically neutral. So the questions is
+And then there's **creativity**. This word has become an empty container for vaguely positive ideas around producing *new* meanings, perspectives, products, systems and anything in between. Who wants to be uncreative? Everyone reveres creativity, yet it is often reduced to consulting, styling, and formatting. I consider creativity as an endeavour that is neither frivolous nor politically neutral. The question is therefore
 
 > What are you going to create and why? What is your agenda? 
+ 
+I encourage students to take responsibility for their creations, to challenge industry practices rather than simply chasing them. In this light, technical skills are as important as **deconstruction** skills: delving under the surface of digital artefacts to understand and interrogate the cultural assumptions that produce them.
 
-I encourage students to take responsibility for their creations, to challenge industry practices rather than simply chasing them. In this light, technical skills are as important as **deconstruction** skills: scratching under the surface of digital artefacts to understand their ideologies,  questioning the dominant frames, designing critically, re-appropriating and re-mixing cultural references, dreaming dangerously<sup id="a8">[8](#f8)</sup>.  
-
-
+The *student-as-hacker* re-appropriates and re-mixes cultural references, designs critically and dreams dangerously.<sup id="a11">[11](#f11)</sup>
 
 ...ok, nice words but how do we do that? 
+
+
 
 # WE 
 
@@ -57,54 +64,58 @@ I encourage students to take responsibility for their creations, to challenge in
 
 We understand and practice teaching as a collaborative activity.
 
+<!--: *reciprocal teaching* as a dialogue between teachers and students in which participants take turns assuming the role of teacher.-->
+
 We acknowledge the hierarchical lecturer-student relationship yet operate as **co-learners**.
 
 In practice:
 
-* we propose work plans (not impose), discuss them with students and amend them if necessary
-* we ask students to devise their own learning goals, which we review as often as possible in person. This has proven challenging for young people that have grown up in a system where they're spoon-fed knowledge they haven't asked for, where they've rarely (or never) been asked "So, what do you want to learn?"
-* we offer informal mentoring on student-initiated projects 
-* we strive to make our assessment process as transparent as possible: publishing assessment criteria, discussing them with students and encouraging self-assessment
-* we ask students to routinely share their new skills in class, leading mini-tutorials. It may sound obvious once you think that the main business of a university is learning that collaboration means *Reciprocal Teaching*
-* we promote team work via group projects where students take turns in different roles and responsibilities
+* We don't pretend to know everything. We welcome questions we don't know the answers to (yet).   
 
-```
-How can I ensure peer learning is effective?
-Importance of trust and commitment
-```
+* We propose study plans and creative briefs (not impose), discuss them with students and amend them if necessary.
 
-<!--Education is not a commodity you can buy. But you can own your learning path. I encourage students to develop and actively pursue their learning goals (rather than expect the university to spoon-feed them with knowledge and skills) and share their journey with their peers (and the commons).-->
+* We ask students to devise their own learning goals, which we review as often as possible in person. This has proven challenging for young people that have grown up in a system where they're spoon-fed knowledge they haven't asked for, where they've rarely (or never) been asked "So, what do you want to learn?"
 
+* We promote team work via group projects where students take turns in different roles and responsibilities.
 
-### Open teaching
+* We provide a *scaffolding* for reciprocal teaching. Simply placing students in groups or pairs and telling them to "work together" is not going to automatically yield results. We must train students to become co-learners, drawing out the knowledge they already possess, asking open-ended questions, explaining how to provide constructive feedback. We can gradually reduce our interventions (removing the scaffolding).
 
-The general discourse on Open Educational Resources centres around the idea of *free* (often intended as as in "free beer"). Of course kids can benefit from material that they can access freely. But that is only half of the point. The other half is that kids can *contribute* to the shared knowledge. Moving away from *knowledge transfer* to pursue *knowledge production*.
+* We ask students to routinely share their new skills and knowledge in class, leading mini-tutorials and moderating debates. 
 
-This requires a change in the way we teach.
+* We ask students to credit their sources of inspiration and discourage secrecy (ideas are cheap anyway).
 
-* don't pretend you know everything, but be open about what you don't know. A teacher is a guide, able to point learners in different directions and refocus their attention. 
-	<!--We can't learn on their behalf.-->
-* nurture trust: if students don't trust us they won't follow us
-* Encourage students to share and contribute rather than keeping their ideas secret
-* Credit where it's due. Nothing is original, everything is a remix.
-* minimise "disposable" assignments, those who have no relevance to a student's work and are painful to grade. *Relevance* is something to be negotiated, not imposed
-* provide a detailed description of how the assignment will be graded
-* feedback is more important than grades (which are sometimes inflated)
- 
-    
-* tight verbal feedback loop, aka *Face2FaceTime* (thanks Apple)
-* open-source curriculum
+* We facilitate structured peer-assessment and demand self-assessment.
 
+* We value formative feedback more than grades. We plan a tight *feedback loop* into our courses, as ongoing regular conversations with individual students and groups (at least 1/3 of our time should be contact time).
 
+* We make our formal assessment process as transparent as possible: publishing assessment criteria and discussing them with students. Grading sucks but it can be useful if students know what to expect and are encouraged to exceed it.<sup id="a12">[12](#f12)</sup>
 
+* We offer informal mentoring on student-initiated projects. Never say "This is not a uni project, and I have no time for it".
+
+Sometimes the encouragement may take the form of a gentle push. It may feel coercive if students don't trust us, which is why it is crucial to develop trusting relationships.
 
 Student often seek our approval (and/or the approval of their peers): we must strive not to "tell them what to do" but educate them to be open to suggestions yet firm in their decisions.
 
-### Experiment
 
-Embrace mistakes (instead of punishing them): they are an opportunity to learn and hack something new into existence.
+<!--
+### Open teaching
 
-> There's no win and no fail: there's only *make*<sup id="a10">[10](#f10)</sup>.
+The general discourse on Open Educational Resources centres around the idea of *free* (often intended as as in "free beer"). Of course kids can benefit from material that they can access freely. But that is only half of the point. 
+-->
+
+### Student-as-hacker
+
+We want to move away from *knowledge transfer* and pursue *knowledge production*.
+
+`TODO Expand and explain`.
+
+In practice:
+
+* We actively promote experimentation. 
+
+* We embrace mistakes (instead of punishing them): they are an opportunity to learn and hack something new into existence.
+
+	> There's no win and no fail: there's only *make*<sup id="a10">[10](#f10)</sup>.
 
 
 
@@ -119,8 +130,12 @@ As with many media that were "new", we may be tempted to apply old metaphors to 
 
 As old business models are merged with new technologies (see Amazon<sup id="a11">[11](#f11)</sup>) and online corporations colonise (privatise, fence off) even more spaces on the Web, we resist the status quo by encouraging students to think critically about their daily habits mediated by technologies. That's a starting point, however we can push students to "dream dangerously" and envision radically different uses for technology.
 
+As a "new" medium, it should be easier to teach the Web as a *subversive* activity (intended as process of questioning the dominant culture and shape it into something fit for purpose) rather than a *reproduction* of existing cultural models. Asking questions that we don't already know the answer to.
+
 
 `Open by design...`
+
+`He exclaimed that new forms of communication–film, radio, advertising, newspapers, the illustrated press–were melting down traditional artistic genres and corroding the borders between writing and reading, authoring and editing. http://elupton.com/2010/10/the-designer-as-producer/`
 
 
 
@@ -146,8 +161,29 @@ In practice:
 * contributing to open-source projects
 * encouraging students to volunteer (see CodeClub) and attend professional or vocational meetups
 * publishing our *courseware* with copy-left licences that allow the to be repurposed (in spite of restrictive IP enforcements)
+* open-source curriculum
 
-Sometimes the encouragement may take the form of a gentle push. It may feel coercive if students don't trust us, which is why it's crucial to develop trusting relationships
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -187,21 +223,133 @@ Let's imagine. (I'm making this thought experiment because it starts to become h
 
 Can you spot the differences between this and the current HE model? [↩](#a4)
 
+<b id="f5">5</b> The [Student as Producer](http://edeu.lincoln.ac.uk/student-as-producer/) framework, developed by the University of Lincoln, focuses on *research-engaged teaching and learning*, which is defined as
 
-<b id="f5">5</b> I heard this from [Simon Breakspear](https://twitter.com/simonbreakspear) and in its strategic vagueness it stroke a chord with me. It's a similar statement (a remix perhaps?) to David Preston's 
-> Devices will never replace or even compete with the learning benefits of human interaction 
+> A fundamental principle of curriculum design whereby students learn primarily by engagement in real research projects, or projects which replicate the process of research in their discipline. Engagement is created through active collaboration amongst and between students and academics.
 
-<b id="f6">6</b> I'm borrowing the catchphrase from the infamous [Browne Report](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/422565/bis-10-1208-securing-sustainable-higher-education-browne-report.pdf), for which I presume students could be installed at the heart of the HE system by giving them customer rights (empowerment by debt)
-`TODO show evidence of effective peer learning` 
+*Student as Producer* is based on a number of intellectual projects, including Walter Benjamin's *Author as Producer* (1934). 
 
-<b id="f7">7</b> Massive Open Online Courses, which in HE are met with reactions spanning from panicked indifference to... 
-`TODO bring some examples and reactions` 
+When Benjamin called for authors to become producers, he did not mean for them to become factory workers alienated from the form and purpose of the manufactured thing. Our challenge as educators today is to help students become the hackers, not the mere consumers, of technology. [↩](#a5) 
 
-<b id="f8">8</b> as popularised by [Slavoj Žižek](http://www.versobooks.com/books/1161-the-year-of-dreaming-dangerously). I understand ideology in the way that Žižek describes it as "the frame within which our world is produced, but we are not aware of it."
+<b id="f6">6</b> I'm standing on McKenzie Wark's shoulders here. In [A Hacker Manifesto](http://subsol.c3.hu/subsol_2/contributors0/warktext.html) he states
+
+> Whatever code we hack, be it programming language, poetic language, math or music, curves or colourings, we create the possibility of new things entering the world. Not always great things, or even good things, but new things. [↩](#a6)
+
+<b id="f7">7</b> In [Teaching as a Subversive Activity](https://www.goodreads.com/book/show/79681.Teaching_as_a_Subversive_Activity) Neil Postman and Charles Weingartner argue that, rather than preparing people to live in society as it is, an *inquiry-based education* should encourage young people to interrogate the status quo, to generate new thinking and to move society forward. [↩](#a7)
+
+<b id="f8">8</b> [Visible Learning](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) is a comprehensive review of educational research, in which John Hattie ranked many teaching approaches and various other factors that can have an impact on learning. *Reciprocal teaching* ranks as the third most effective teaching approach.
+
+Numbers aside, I am using [Palincsar's definition](https://en.wikipedia.org/wiki/Reciprocal_teaching#cite_note-2) of reciprocal teaching as
+
+> a dialogue between teachers and students in which participants take turns assuming the role of teacher 
+
+My hypothesis is that reciprocal teaching is not just an effective approach to develop reading skills, but an essential ingredient for any collaborative teaching strategy.  [↩](#a8)
+
+<b id="f9">9</b> I heard this from [Simon Breakspear](https://twitter.com/simonbreakspear) and in its vagueness it stroke a chord with me. It's a similar statement (a remix perhaps?) to David Preston's 
+> Devices will never replace or even compete with the learning benefits of human interaction. [↩](#a9)
+
+<b id="f10">10</b> Massive Open Online Courses [↩](#a10)
+
+<b id="f11">11</b> ... as popularised by [Slavoj Žižek](http://www.versobooks.com/books/1161-the-year-of-dreaming-dangerously). I understand ideology in the way that Žižek describes it as "the frame within which our world is produced, but we are not aware of it". He also argues that in our so-called *post-ideological* age we are aware of this overarching frame but we don't really care. 
+
+As educators today we should encourage students to care, constantly deconstructing ideologies and designing alternatives to the mainstream. [↩](#a11)
+
+
+<b id="f12">12</b> John Hattie demonstrated how students are very accurate at predicting how they will perform in tests. So what's the point of tests and grading? Hattie argues educators must help students *exceed* their expectations, rather than formally acknowledging them. [↩](#a12)
+
+<!--
+<b id="f"></b> [↩](#a)
+<b id="f"></b> [↩](#a)
+<b id="f"></b> [↩](#a)
+<b id="f"></b> [↩](#a)
+<b id="f"></b> [↩](#a)
+<b id="f"></b> [↩](#a)
+<b id="f"></b> [↩](#a)
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <b id="f9">9</b> The term was coined by internet activist Eli Pariser in his book by the same name; according to Pariser, users get less exposure to conflicting viewpoints and are isolated intellectually in their own informational bubble. Learn more at [Wikipedia](https://en.wikipedia.org/wiki/Filter_bubble)
 
 <b id="f10">10</b> From [10 Rules for Students, Teachers, and Life](http://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/) by John Cage and Sister Corita Kent
 
 <b id="f11">11</b> As [reported by the NYT](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html) Amazon pioneers *big data* and *machine learning* to ruthlessly extract as much intellectual value as possible from their *human resources*
+
+
 
