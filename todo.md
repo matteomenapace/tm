@@ -23,6 +23,7 @@
 	* [ ] OPEN teaching: from lecturer to *coach*
 	* [ ] Computational Thinking is about using code creatively to solve real-world problems, to break down behaviours in specific and precise ways that can be communicated to other people, and eventually to computers.
 	* [ ] Open-source *courseware*: freedom to access our course material and re-use it
+		* http://opendefinition.org/
 		* but how does this sit with the commercial nature of the institution in which this material was originally produced? with the IP that it contractually claims on it? 
 		* can a Creative Commons licence (attribute, non-commercial) be a good compromise?
 	* [ ] Face2FaceTime: tighter feedback loops 
@@ -111,3 +112,21 @@ attention-deficient multitaskers: our primary challenge as teachers is to fight 
 	> Whatever code we hack, be it programming language, poetic language, math or music, curves or colourings, we create the possibility of new things entering the world. Not always great things, or even good things, but new things. 
 	
 	> In art, in science, in philosophy and culture, in any production of knowledge where data can be gathered, where information can be extracted from it, and where in that information new possibilities for the world are produced, there are hackers hacking the new out of the old. 
+	
+	> That which we create is mortgaged to others, and to the interests of others, to states and corporations who control the means for making worlds we alone discover.
+	
+	> The class interest of hackers lies in freeing information from its material constraints.
+	
+	> What makes our times different is that what now appears on the horizon is the possibility of a society finally set free from necessity, both real and imagined, by an explosion in abstract innovations.
+	
+	> Production takes place on the basis of a prior hack which gives to production its formal, social, repeatable and reproducible form. Every production is a hack formalised and repeated on the basis of its representation. **To produce is to repeat; to hack, to differentiate**.
+	
+	> Perhaps there is another class that can pose the property question in a new way - and offer new answers to breaking the monopoly of the ruling classes on property.
+	
+	> Capital produces in its factories not just the necessities of existence, but a way of life it expects its workers to consume. Commodified life dispossess the worker of the information traditionally passed on outside the realm of private property as culture, as the gift of one generation to the next, and replaces it with information in commodified form.
+	
+	> Information, like land or capital, becomes a form of property monopolised by a class of vectoralists, so named because they control the vectors along which information is abstracted.
+	
+	> Hackers do not merely own, and profit by owning information. They produce new information, and as producers need access to it free from the absolute domination of the commodity form. Hacking as a pure, free experimental activity must be free from any constraint that is not self imposed.
+	
+	> The hacker struggles to produce a subjectivity that is qualitative and singular, in part through the act of the hack itself. The gift, as a qualitative exchange between singular parties allows each party to be recognised as a singular producer, as a subject of production, rather than as a commodified and quantified object. [...] The gift of information need not give rise to conflict over information as property, for information need not suffer the artifice of scarcity once freed from commodification.
