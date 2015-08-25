@@ -236,3 +236,6 @@ If you look at the figures, **higher education** is an expensive long-term inves
 Who can afford and is willing to spend ten grand a year over three or more years to obtain a degree certificate that is not guarantee of employment?
 
 
+
+
+A teacher is a guide, able to point learners in different directions and refocus their attention.
