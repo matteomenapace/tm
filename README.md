@@ -62,11 +62,11 @@ The *student-as-hacker* re-appropriates and re-mixes cultural references, design
 
 ### Co-learners
 
-We understand and practice teaching as a collaborative activity.
+We understand and practice teaching as a *collaborative activity*, based on *mutual trust* between learners and educators rather than authority.
 
 <!--: *reciprocal teaching* as a dialogue between teachers and students in which participants take turns assuming the role of teacher.-->
 
-We acknowledge the hierarchical lecturer-student relationship yet operate as **co-learners**.
+We operate as **co-learners**.
 
 In practice:
 
@@ -94,7 +94,7 @@ In practice:
 
 Sometimes the encouragement may take the form of a gentle push. It may feel coercive if students don't trust us, which is why it is crucial to develop trusting relationships.
 
-Student often seek our approval (and/or the approval of their peers): we must strive not to "tell them what to do" but educate them to be open to suggestions yet firm in their decisions.
+Students often seek our approval (and/or the approval of their peers): we must strive not to "tell them what to do" but educate them to be open to suggestions yet firm in their decisions.
 
 
 <!--
@@ -105,19 +105,33 @@ The general discourse on Open Educational Resources centres around the idea of *
 
 ### Student-as-hacker
 
-We want to move away from *knowledge transfer* and pursue *knowledge production*.
+We move away from education as *knowledge transfer* and push towards education as *shared knowledge production*. In this system, students actively learn by *hacking* new knowledge out of the existing.
 
-`TODO Expand and explain`.
+We reject the notion of creativity as politically neutral, and the subsequent role of creatives as deresponsibilised knowledge workers who mortgage their creations to the interests of others.
 
 In practice:
 
-* We actively promote experimentation. 
+* We introduce students to ideas that challenge their assumptions and ask them to produce work in reaction to these ideas.
+
+* We constantly ask the question *why* and demand students to show evidence of their thinking.
+
+* We stimulate debate and welcome all opinions, whilst helping students articulate their thoughts and explore different ways to express those. We don't tolerate the lack of opinions.
+
+* We encourage students to question everything that we do and talk about. Even if it does not lead to change in the situation in question, it does lead to a development of their understanding. 
+
+* We actively promote **experimentation**. Learning by making enables students to build technical skills and confidence, while developing their personal aesthetic. 
+
+* We push students to observe and conceptualise their experiments. Only through reflection they can truly take ownership of their learning paths. 
+
+* We ask students to document their creative process and research, and publish their reflections (on the Web). 
 
 * We embrace mistakes (instead of punishing them): they are an opportunity to learn and hack something new into existence.
 
-	> There's no win and no fail: there's only *make*<sup id="a10">[10](#f10)</sup>.
+	> There's no win and no fail: there's only *make*<sup id="a13">[13](#f13)</sup>.
 
+* We push students to research and re-mix cultural references, subverting their intended purpose to new meanings and agendas.
 
+* We invite students to share their work outside the class and actively seek feedback and challenges from other communities of practice. 
 
 
 ### Web pedagogy
@@ -254,8 +268,9 @@ My hypothesis is that reciprocal teaching is not just an effective approach to d
 
 As educators today we should encourage students to care, constantly deconstructing ideologies and designing alternatives to the mainstream. [↩](#a11)
 
-
 <b id="f12">12</b> John Hattie demonstrated how students are very accurate at predicting how they will perform in tests. So what's the point of tests and grading? Hattie argues educators must help students *exceed* their expectations, rather than formally acknowledging them. [↩](#a12)
+
+<b id="f13">13</b> From [10 Rules for Students, Teachers, and Life](http://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/) by John Cage and Sister Corita Kent [↩](#a13)
 
 <!--
 <b id="f"></b> [↩](#a)
@@ -347,7 +362,7 @@ As educators today we should encourage students to care, constantly deconstructi
 
 <b id="f9">9</b> The term was coined by internet activist Eli Pariser in his book by the same name; according to Pariser, users get less exposure to conflicting viewpoints and are isolated intellectually in their own informational bubble. Learn more at [Wikipedia](https://en.wikipedia.org/wiki/Filter_bubble)
 
-<b id="f10">10</b> From [10 Rules for Students, Teachers, and Life](http://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/) by John Cage and Sister Corita Kent
+
 
 <b id="f11">11</b> As [reported by the NYT](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html) Amazon pioneers *big data* and *machine learning* to ruthlessly extract as much intellectual value as possible from their *human resources*
 
