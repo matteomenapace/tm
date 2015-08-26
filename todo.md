@@ -13,25 +13,25 @@
 	* [x] Students should be encouraged to take ownership of their learning paths and choose their own learning goals
 	* [x] *Community of practice*: being physically in the same space, working together with co-learners and educators, and one-on-one mentoring	
 	* [x] **Peer-learning**: the best way of learning is teaching what you know to someone else
-	* [ ] Creativity is something everyone agrees on, but **create what**? What sort of creativity are we encouraging? What *agenda*(s) are we pursuing?
-		* [ ] Critical thinking: challenge industry rather than simply chasing it (or serving its employer's demands)
-		* [ ] *Dream dangerously*: imagining radically different futures, rather than reskins of existing scams
+	* [x] Creativity is something everyone agrees on, but **create what**? What sort of creativity are we encouraging? What *agenda*(s) are we pursuing?
+		* [x] Critical thinking: challenge industry rather than simply chasing it (or serving its employer's demands)
+		* [x] *Dream dangerously*: imagining radically different futures, rather than reskins of existing scams
 	
-	* [ ] open source teaching and learning
+	* [x] open source teaching and learning
 	
 * WE (aka the PLAN): how am I going to put the above into practice? What am I going to experiment with?
-	* [ ] OPEN teaching: from lecturer to *coach*
-	* [ ] Computational Thinking is about using code creatively to solve real-world problems, to break down behaviours in specific and precise ways that can be communicated to other people, and eventually to computers.
-	* [ ] Open-source *courseware*: freedom to access our course material and re-use it
+	* [x] OPEN teaching: from lecturer to *coach*
+	* [x] Computational Thinking is about using code creatively to solve real-world problems, to break down behaviours in specific and precise ways that can be communicated to other people, and eventually to computers.
+	* [x] Open-source *courseware*: freedom to access our course material and re-use it
 		* http://opendefinition.org/
 		* but how does this sit with the commercial nature of the institution in which this material was originally produced? with the IP that it contractually claims on it? 
 		* can a Creative Commons licence (attribute, non-commercial) be a good compromise?
-	* [ ] Face2FaceTime: tighter feedback loops 
+	* [x] Face2FaceTime: tighter feedback loops 
 	* [ ] Walking lectures (ask the street..)
-	* [ ] Engaging with the local community: collaboration with primary schools, encouraging students to get involved in volunteering (eg CodeClub) and student societies
+	* [x] Engaging with the local community: collaboration with primary schools, encouraging students to get involved in volunteering (eg CodeClub) and student societies
 	* [ ] Self-initiated projects: "what do you want to make? and why?"	what is your agenda? what change do you want to see? why do you care?
 	* [ ] Animated gifs
-	* [ ] encourage students to print out their code and visualise their understanding.
+	* [x] encourage students to print out their code and visualise their understanding.
 
 ### Check out
 
