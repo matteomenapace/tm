@@ -92,7 +92,7 @@ In practice:
 
 * We offer informal mentoring on student-initiated projects. Never say "This is not a uni project, and I have no time for it".
 
-Sometimes the encouragement may take the form of a gentle push. It may feel coercive if students don't trust us, which is why it is crucial to develop trusting relationships.
+Sometimes encouragement may take the form of a gentle push. It may feel coercive if students don't trust us, which is why it is crucial to develop trusting relationships.
 
 Students often seek our approval (and/or the approval of their peers): we must strive not to "tell them what to do" but educate them to be open to suggestions yet firm in their decisions.
 
@@ -117,7 +117,7 @@ In practice:
 
 * We stimulate debate and welcome all opinions, whilst helping students articulate their thoughts and explore different ways to express those. We don't tolerate the lack of opinions.
 
-* We encourage students to question everything that we do and talk about. Even if it does not lead to change in the situation in question, it does lead to a development of their understanding. 
+* We exhort students to question everything that we do and talk about. Even if it does not lead to change in the situation in question, it does lead to a development of their understanding. 
 
 * We actively promote **experimentation**. Learning by making enables students to build technical skills and confidence, while developing their personal aesthetic. 
 
@@ -127,55 +127,79 @@ In practice:
 
 * We embrace mistakes (instead of punishing them): they are an opportunity to learn and hack something new into existence.
 
-	> There's no win and no fail: there's only *make*<sup id="a13">[13](#f13)</sup>.
+	> There's no win and no fail: there's only *make*.<sup id="a13">[13](#f13)</sup>
 
 * We push students to research and re-mix cultural references, subverting their intended purpose to new meanings and agendas.
 
 * We invite students to share their work outside the class and actively seek feedback and challenges from other communities of practice. 
 
 
-### Web pedagogy
+### Teach the Web
 
-Compared to most other university subjects, *teaching the Web* can feel like chasing an elusive and ever-changing animal in a vastly unexplored field. 
+The Web has a reputation for being a disruptive "new" medium, which has so far managed to erode the borders between producers and consumers, deeply transform "old" media businesses, as well as shape the way we interact with one another (shop, learn, talk, write, date, work..).
 
-This means we have more room to experiment, less (or no) traditions to confront, more opportunities to discover something new. At the same time, this discovery process may be challenging and even painful at times.
+The Web should make it easier to practice that principle of education as a *subversive* activity, rather than a *reproduction* of the status quo. We should have more room to experiment, less (or no) traditions to confront and more opportunities to discover something new. 
 
-As with many media that were "new", we may be tempted to apply old metaphors to the Web. As well as adopting new *social protocols* without questioning them (`might makes right?`). 
+At the same time, this discovery process may be challenging and even painful at times. Compared to many established subjects, *teaching the Web* can feel like chasing an elusive and ever-changing beast in a vastly unexplored field. 
 
-As old business models are merged with new technologies (see Amazon<sup id="a11">[11](#f11)</sup>) and online corporations colonise (privatise, fence off) even more spaces on the Web, we resist the status quo by encouraging students to think critically about their daily habits mediated by technologies. That's a starting point, however we can push students to "dream dangerously" and envision radically different uses for technology.
+<!--As with many media that were "new", we may be tempted to apply old metaphors to the Web. As well as adopting new *social protocols* without questioning them (`might makes right?`). -->
 
-As a "new" medium, it should be easier to teach the Web as a *subversive* activity (intended as process of questioning the dominant culture and shape it into something fit for purpose) rather than a *reproduction* of existing cultural models. Asking questions that we don't already know the answer to.
+As old business models are merged with new technologies (see Amazon<sup id="a14">[14](#f14)</sup>) and online corporations continue privatising once "open" spaces on the Web, we resist the status quo by encouraging students to think critically about their daily habits mediated by technologies. 
 
-
-`Open by design...`
-
-`He exclaimed that new forms of communication–film, radio, advertising, newspapers, the illustrated press–were melting down traditional artistic genres and corroding the borders between writing and reading, authoring and editing. http://elupton.com/2010/10/the-designer-as-producer/`
-
-
+That's just a starting point however, we can push students further to envision radically different uses for Web technologies.
 
 In practice:
 
-* **Web literacy**: it's not just about code. Learning how to (re)search and evaluate information, how to contribute to open knowledge, how to communicate..
+* We use code as a creative tool, a powerful means to an end rather than an end in itself. 
 
-* Computing is not just a science, it's a way of solving problems. Computational thinking is about people first.
+* We use code to manipulate data and create meaningful, purposeful information. We ask students to put as much thinking in the purpose(s) of their Web-making as in the making itself. 
 
-* We encourage students to print out their code and visualise their understanding. Digital tech is not the solution to everything. Even if we're designing or developing digital artefacts, pen and paper are still (and will be) effective "thinking tools". 
+* We encourage students to print out their code and visualise their understanding. Digital technology is not the solution to everything. Even if we're designing and developing digital artefacts, pen and paper are and will continue to be effective *thinking tools*. 
 
-* question *artificial scarcity* et al
+<!--* We design solutions for the Web, on the Web.-->
+
+* We promote **Web literacy**<sup id="a15">[15](#f15)</sup> as a set of competencies, which go beyond *reading and writing the Web* (aka coding skills). Web literacy starts from understanding the wider context in which Web technologies operate and the people, organisations and cultures behind them.
+
+* We understand the Web as a library and a lab, operating on a global scale. We make the Web relevant to us by *participating* in communities and *contributing* ideas, feedback and work to projects that resonate with our values. 
+
+* We teach and practice **computational thinking**<sup id="a16">[16](#f16)</sup> as a way to get computers to do the heavy lifting for us. It is about using code creatively to solve real-world problems, to break down behaviours in specific and precise ways that can be communicated to other people, and eventually to computers.
+
+* We advocate the Web as an open, accessible and editable platform and resist commercial *silos*. We prefer open-source software and transparent services.
+
+* We publish our courseware (curricula) with copy-left licences which allow it to be repurposed. 
+
+
+<!--
+* We aim to tackle the dysfunctional relationships we have developed with the companies that provide us with services every day: they offer us “free” stuff that has a hidden cost, namely the *exploitation of our personal data*.
+
+* Our need to make sense of the world around us will make us monitor and quantify all aspects of our lives. Companies will continue amassing huge amounts of data for future purposes unclear even to themselves.
+
+* Our deep desire to be connected will lead us to accept devices that communicate on our behalf, interacting with the physical world and the Web more than interacting with us.
+We’ll be wearing sensors and moving in and out of places chock-full of sensors. A data-drenched world.
+
+* From a tech point of view, the WWW wasn’t the best solution to connecting documents over the Internet. What made it thrive is the idea of open society underpinning Tim’s decisions. The Web is open by design, and the struggle to keep it open will continue in the next few years.
+
+* question *artificial scarcity* (the abstraction of private property and its extension to information)
+-->
+
 
 ### The commons
 
-What we do is not just for an elite of students who can afford the extortionate cost of a university degree. Outreach projects are often perceived as a sort of *moral debt repayment* (or maybe it's my Catholic upbringing). It's actually in our interest to engage with the communities that orbit around our university. And not just the obvious ones (creative industries etc), but rather those who are geographically close but excluded from our daily *filter bubbles*<sup id="a9">[9](#f9)</sup>.
+What we do is not just for an elite of students who can afford the extortionate cost of a university degree. 
+
+Outreach projects are often perceived as a sort of *moral debt repayment*, but it's actually in our interest to engage with the communities that orbit around our university and learn from those people who are geographically close but excluded from our daily *filter bubbles*.<sup id="a17">[17](#f17)</sup>
 
 In practice:
 
-* working with local schools, where our students take on a facilitator role and share their knowledge with pupils from culturally diverse backgrounds
-* pushing students beyond their comfort zones, to approach and interview strangers for their design research 
-* creating and publishing *how-to* tutorials 
-* contributing to open-source projects
-* encouraging students to volunteer (see CodeClub) and attend professional or vocational meetups
-* publishing our *courseware* with copy-left licences that allow the to be repurposed (in spite of restrictive IP enforcements)
-* open-source curriculum
+* We work with local schools, where our students take on a facilitator role and share their knowledge with pupils from culturally diverse backgrounds.
+
+* We push students beyond their comfort zones, to approach and interview strangers for their design research.
+  
+* We ask students to create and publish *how-to* tutorials and reward their initiative.
+
+* We support and contribute to open-source projects.
+
+* We encourage students to volunteer in their communities and attend vocational meetups.
 
 
 
@@ -266,11 +290,19 @@ My hypothesis is that reciprocal teaching is not just an effective approach to d
 
 <b id="f11">11</b> ... as popularised by [Slavoj Žižek](http://www.versobooks.com/books/1161-the-year-of-dreaming-dangerously). I understand ideology in the way that Žižek describes it as "the frame within which our world is produced, but we are not aware of it". He also argues that in our so-called *post-ideological* age we are aware of this overarching frame but we don't really care. 
 
-As educators today we should encourage students to care, constantly deconstructing ideologies and designing alternatives to the mainstream. [↩](#a11)
+As educators today we should urge students to care, constantly deconstructing ideologies and designing alternatives to the mainstream. [↩](#a11)
 
 <b id="f12">12</b> John Hattie demonstrated how students are very accurate at predicting how they will perform in tests. So what's the point of tests and grading? Hattie argues educators must help students *exceed* their expectations, rather than formally acknowledging them. [↩](#a12)
 
 <b id="f13">13</b> From [10 Rules for Students, Teachers, and Life](http://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/) by John Cage and Sister Corita Kent [↩](#a13)
+
+<b id="f14">14</b> As [reported by the NYT](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html) Amazon pioneers *big data* and *machine learning* to ruthlessly extract as much intellectual value as possible from their *human resources*. [↩](#a14)
+
+<b id="f15">15</b> Mozilla defines [web literacy](https://mozilla.github.io/webmaker-whitepaper/#web-literacy) as the skills and competencies required to read, write and participate effectively on the Web. [↩](#a15)
+
+<b id="f16">16</b> Computational thinking doesn’t mean to teach young people to think like computers. Computers don’t think anyway, we program computers to perform tasks that are still quite far from thinking in a human sense. [↩](#a16)
+
+<b id="f17">17</b> According to Eli Pariser, technologies that tailor content based on our preferences generate filter bubbles: we are exposed only to what we *like* and affirms our beliefs, don't learn about conflicting viewpoints and become intellectually isolated. [↩](#a17)
 
 <!--
 <b id="f"></b> [↩](#a)
@@ -278,93 +310,4 @@ As educators today we should encourage students to care, constantly deconstructi
 <b id="f"></b> [↩](#a)
 <b id="f"></b> [↩](#a)
 <b id="f"></b> [↩](#a)
-<b id="f"></b> [↩](#a)
-<b id="f"></b> [↩](#a)
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<b id="f9">9</b> The term was coined by internet activist Eli Pariser in his book by the same name; according to Pariser, users get less exposure to conflicting viewpoints and are isolated intellectually in their own informational bubble. Learn more at [Wikipedia](https://en.wikipedia.org/wiki/Filter_bubble)
-
-
-
-<b id="f11">11</b> As [reported by the NYT](http://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html) Amazon pioneers *big data* and *machine learning* to ruthlessly extract as much intellectual value as possible from their *human resources*
-
-
-
