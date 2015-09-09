@@ -130,3 +130,5 @@ attention-deficient multitaskers: our primary challenge as teachers is to fight 
 	> Hackers do not merely own, and profit by owning information. They produce new information, and as producers need access to it free from the absolute domination of the commodity form. Hacking as a pure, free experimental activity must be free from any constraint that is not self imposed.
 	
 	> The hacker struggles to produce a subjectivity that is qualitative and singular, in part through the act of the hack itself. The gift, as a qualitative exchange between singular parties allows each party to be recognised as a singular producer, as a subject of production, rather than as a commodified and quantified object. [...] The gift of information need not give rise to conflict over information as property, for information need not suffer the artifice of scarcity once freed from commodification.
+	
+- [ ] [Critical Engineering manifesto](https://criticalengineering.org/en)	
